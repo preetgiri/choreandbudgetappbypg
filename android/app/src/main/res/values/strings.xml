@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Web Chore &amp; Budget App by PG</string>
+    <string name="title_activity_main">Web Chore &amp; Budget App by PG</string>
+    <string name="package_name">com.pg.chorebudgetapp</string>
+    <string name="custom_url_scheme">com.pg.chorebudgetapp</string>
+</resources>
